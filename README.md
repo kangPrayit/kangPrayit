@@ -1,10 +1,11 @@
 ### Hi there I'm Pray 👋
 
 - 🔭 I’m currently working on AI and Deep Learning
+- 📚 I am a programmer also lecturer at Politeknik Negeri Semarang (POLINES).
 
 Stay tune.
 
-
+### 
 <!--
 **kangPrayit/kangPrayit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
