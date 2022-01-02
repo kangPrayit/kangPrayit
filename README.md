@@ -12,7 +12,7 @@ Stay tune.
 - **Prayitno**, & Triyono, L. (2017). Development Of Logic And Algorithm E-Training Material With Block Programming. In JAICT (Vol. 2, Issue 1). Politeknik Negeri Semarang. https://doi.org/10.32497/jaict.v2i1.1089
 
 ### Conferences
-- K. T. Putra, **Prayitno**, E. F. Cahyadi, A. S. Mamonto, S. S. Berutu and S. Muharom, “Forecasting Air Quality Using Massive-Scale WSN Based on Convolutional LSTM Network,” 2021 1st International Conference on Electronic and Electrical Engineering and Intelligent System (ICE3IS), 2021, pp. 1-6, doi: 10.1109/ICE3IS54102.2021.9649763.
+- K. T. Putra, **Prayitno**, E. F. Cahyadi, A. S. Mamonto, S. S. Berutu and S. Muharom, “Forecasting Air Quality Using Massive-Scale WSN Based on Convolutional LSTM Network,” 2021 1st International Conference on Electronic and Electrical Engineering and Intelligent System (ICE3IS), 2021, pp. 1-6, doi: https://doi.org/10.1109/ICE3IS54102.2021.9649763.
 - Chen, H.-C., Prasetyo, E., **Prayitno**, Kusumawardani, S. S., Tseng, S.-S., Kung, T.-L., & Wang, K.-Y. (2021). Learning Performance Prediction with Imbalanced Virtual Learning Environment Students’ Interactions Data. In Innovative Mobile and Internet Services in Ubiquitous Computing (pp. 330–340). Springer International Publishing. https://doi.org/10.1007/978-3-030-79728-7_33
 - Ardjo, A. S., Wardihani, E. D., & **Prayitno**, P. (2021). Android based maintenance information system for machining workshop in polytechnic high education. In IOP Conference Series: Materials Science and Engineering (Vol. 1108, Issue 1, p. 012047). IOP Publishing. https://doi.org/10.1088/1757-899x/1108/1/012047
 
