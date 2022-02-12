@@ -7,6 +7,7 @@ Stay tune.
 
 ## My Latest Publications
 ### Journals
+- Chen, H.-C.; Prasetyo, E.; Tseng, S.-S.; Putra, K.T.; **Prayitno;** Kusumawardani, S.S.; Weng, C.-E. Week-Wise Student Performance Early Prediction in Virtual Learning Environment Using a Deep Explainable Artificial Intelligence. Appl. Sci. 2022, 12, 1885. doi: 10.3390/app12041885. https://www.mdpi.com/2076-3417/12/4/1885 (Q2, IF 2.679)
 - **Prayitno**, C. R. Shyu, K. T. Putra, H. C. Chen, Y. Y. Tsai, K. S. M. Hossain, W. Jiang, Z. Y. Shae, “A Systematic Review of Federated Learning in the Healthcare Area: From the Perspective of Data Properties and Applications,” Applied Sciences, vol. 11, no. 23. MDPI AG, p. 11191, Nov. 25, 2021. doi: 10.3390/app112311191. https://www.mdpi.com/2076-3417/11/23/11191 (Q2, IF 2.679)
 - K. T. Putra, H.-C Chen, **Prayitno**, M. R. Ogiela, C.-L Chou, C.-E Weng, Z.-Y Shae, Federated Compressed Learning Edge Computing Framework with Ensuring Data Privacy for PM2.5 Prediction in Smart City Sensing Applications. Sensors 2021, 21, 4586. doi: 10.3390/s21134586 https://www.mdpi.com/1424-8220/21/13/4586 (Q1, IF 3.576)
 - **Prayitno**, & Triyono, L. (2017). Development Of Logic And Algorithm E-Training Material With Block Programming. In JAICT (Vol. 2, Issue 1). Politeknik Negeri Semarang. https://doi.org/10.32497/jaict.v2i1.1089
